@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This is my first Quarto Website test trial."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Website",
+    "section": "",
+    "text": "This is a Quarto website.\nThis is my Index Page. Everything starts here.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
